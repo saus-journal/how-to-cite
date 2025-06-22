@@ -14,8 +14,6 @@ A series is an open-ended collection of independent scholarly works, often by di
 
 </details>
 
-***
-
 <details>
 
 <summary><strong>Multivolume Works</strong></summary>
@@ -60,8 +58,6 @@ An academic work submitted in fulfillment of degree requirements, often archived
 
 </details>
 
-***
-
 <details>
 
 <summary><strong>Book Sections</strong></summary>
@@ -73,8 +69,6 @@ An academic book section is a distinct, titled part of a book. Examples include:
 * Papers within edited volumes (including conference proceedings published as books)
 
 </details>
-
-***
 
 <details>
 
@@ -95,8 +89,6 @@ An article published in a general-interest or professional magazine aimed at a b
 An article published in a daily or weekly newspaper.
 
 </details>
-
-***
 
 <details>
 
