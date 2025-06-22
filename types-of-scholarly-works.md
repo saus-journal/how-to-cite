@@ -14,7 +14,7 @@ A series is an open-ended collection of independent scholarly works, often by di
 
 </details>
 
-
+***
 
 <details>
 
@@ -35,8 +35,6 @@ A multivolume work may sometimes be published as part of a larger series.
 
 While the distinction is conceptually clear, in practice it can be blurred — especially when series volumes appear uniform or when multivolume works, with each volume individually titled, are published over decades. When in doubt, consult reliable bibliographic sources or follow how the publisher formally presents the relationship between volumes.
 {% endhint %}
-
-
 
 <details>
 
@@ -62,7 +60,7 @@ An academic work submitted in fulfillment of degree requirements, often archived
 
 </details>
 
-
+***
 
 <details>
 
@@ -76,7 +74,7 @@ An academic book section is a distinct, titled part of a book. Examples include:
 
 </details>
 
-
+***
 
 <details>
 
@@ -98,7 +96,7 @@ An article published in a daily or weekly newspaper.
 
 </details>
 
-
+***
 
 <details>
 
