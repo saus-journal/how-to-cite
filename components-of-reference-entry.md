@@ -143,7 +143,10 @@ Unique or standardized codes that identify the work. Examples include:
 
 <summary><strong>Missing Author</strong></summary>
 
+When the author of a work is unknown, the name is substituted in different ways depending on the citation style. The most common approaches include:
 
+* replacing the author’s name with the title of the work
+* using the term Anonymous (or its abbreviated form Anon.)
 
 </details>
 
@@ -151,7 +154,7 @@ Unique or standardized codes that identify the work. Examples include:
 
 <summary><strong>Missing Date</strong></summary>
 
-
+When the creation or publication date of a work is unknown and cannot be reliably estimated, it is replaced with a “no date” indicator, the exact form of which may vary depending on the citation style used.
 
 </details>
 
@@ -159,15 +162,16 @@ Unique or standardized codes that identify the work. Examples include:
 
 <summary><strong>Missing Publisher Information</strong></summary>
 
-
+When the **publisher** of a work is unknown, it is replaced with a “no publisher” indicator, the exact form of which may vary depending on the citation style used.\
+Similarly, if the **place of publication** is unknown, it is replaced with a “no place” indicator.
 
 </details>
 
 <details>
 
-<summary><strong>Missing Pagination</strong></summary>
+<summary><strong>Missing Locators Information</strong></summary>
 
-
+When locators — such as page numbers, paragraph numbers, or other reference markers — are absent from a source where they would typically be provided, a “no locator” indicator is used. This often occurs in electronic publications that omit pagination found in the original print edition, or in online works lacking paragraph numbering. The exact form of this indicator varies according to the citation style applied.
 
 </details>
 
