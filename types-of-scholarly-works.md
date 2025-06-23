@@ -108,7 +108,7 @@ Although theses and dissertations are technically unpublished manuscripts, their
 
 <details>
 
-<summary>Websites</summary>
+<summary><strong>Websites</strong></summary>
 
 
 
@@ -116,7 +116,7 @@ Although theses and dissertations are technically unpublished manuscripts, their
 
 <details>
 
-<summary>Blog Posts</summary>
+<summary><strong>Blog Posts</strong></summary>
 
 
 
@@ -126,7 +126,7 @@ Although theses and dissertations are technically unpublished manuscripts, their
 
 <details>
 
-<summary>Maps</summary>
+<summary><strong>Maps</strong></summary>
 
 
 
@@ -136,7 +136,7 @@ Although theses and dissertations are technically unpublished manuscripts, their
 
 <details>
 
-<summary>Datasets</summary>
+<summary><strong>Datasets</strong></summary>
 
 
 
