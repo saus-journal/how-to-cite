@@ -112,9 +112,7 @@ Although theses and dissertations are technically unpublished manuscripts, their
 
 A webpage is a distinct, addressable electronic page focused on a specific topic or function. It can be authored by an individual or institution and is usually part of a larger online resource.
 
-{% hint style="warning" %}
 From a bibliographic and cataloguing perspective, a webpage is structurally analogous to a book section or chapter.
-{% endhint %}
 
 </details>
 
@@ -124,9 +122,7 @@ From a bibliographic and cataloguing perspective, a webpage is structurally anal
 
 A blog post is an individual electronic entry, typically authored by a person or small group, and arranged in reverse chronological order within a blog.
 
-{% hint style="warning" %}
 In bibliographic terms, a blog post is structurally similar to a periodical article, such as a newspaper article.
-{% endhint %}
 
 </details>
 
@@ -136,7 +132,15 @@ In bibliographic terms, a blog post is structurally similar to a periodical arti
 
 <summary><strong>Maps</strong></summary>
 
+A map is a visual representation of an area—typically a geographic region—depicting natural and/or human-made features.
 
+From a bibliographic perspective, maps constitute a highly diverse category and can take various structural forms, including:
+
+* **Standalone works**, analogous to books or monographs
+* **Components of atlases**, structurally similar to book chapters
+* **Individually published items in periodicals**, akin to periodical articles (not to be confused with illustrative figures within articles)
+* **Sheets within multisheet map sets**, each forming part of a larger map work
+* **Georeferenced digital map mosaics**, often archived as datasets in digital repositories and made publicly accessible through services such as slippy map tiles, WMS, WFS, or REST APIs
 
 </details>
 
