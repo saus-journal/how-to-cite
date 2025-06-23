@@ -101,7 +101,7 @@ From a bibliographic or cataloguing perspective, they do not form a homogeneous 
 Nevertheless, manuscripts — especially older handwritten ones — often have distinctive features, such as frequently lacking formal titles, and follow a specific tradition in the description and designation of their internal elements. For these reasons, they are generally treated as a special category of texts.
 
 {% hint style="warning" %}
-Although theses and dissertations are technically unpublished manuscripts, their formal presentation, comprehensive content, and academic function often position them closer to published monographs than to typical unpublished texts.
+Although theses and dissertations are technically unpublished typescripts, their formal presentation, comprehensive content, and academic function often position them closer to published monographs than to typical unpublished texts.
 {% endhint %}
 
 </details>
