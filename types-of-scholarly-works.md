@@ -1,6 +1,6 @@
 # Types of Scholarly Works
 
-on provides a clear classification and explanation of common types of scholarly works cited in archaeological research. Understanding these categories — from broad collections like series and multivolume works to specific items such as journal articles, book chapters, datasets, and digital resources — helps authors accurately identify and reference sources according to best bibliographic practices.
+This section provides a clear classification and explanation of common types of scholarly works cited in archaeological research. Understanding these categories — from broad collections like series and multivolume works to specific items such as journal articles, book chapters, datasets, and digital resources — helps authors accurately identify and reference sources according to best bibliographic practices.
 
 ### Texts
 
