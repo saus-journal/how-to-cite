@@ -110,7 +110,11 @@ Although theses and dissertations are technically unpublished manuscripts, their
 
 <summary><strong>Websites</strong></summary>
 
+A webpage is a distinct, addressable electronic page focused on a specific topic or function. It can be authored by an individual or institution and is usually part of a larger online resource.
 
+{% hint style="warning" %}
+From a bibliographic and cataloguing perspective, a webpage is structurally analogous to a book section or chapter.
+{% endhint %}
 
 </details>
 
@@ -118,7 +122,11 @@ Although theses and dissertations are technically unpublished manuscripts, their
 
 <summary><strong>Blog Posts</strong></summary>
 
+A blog post is an individual electronic entry, typically authored by a person or small group, and arranged in reverse chronological order within a blog.
 
+{% hint style="warning" %}
+In bibliographic terms, a blog post is structurally similar to a periodical article, such as a newspaper article.
+{% endhint %}
 
 </details>
 
