@@ -1,6 +1,6 @@
 # Key Elements of a Citation and Reference
 
-
+Building blocks are taken directly from the referenced work and retain the original language of that source. Similarly, linking elements and substitutes are localized according to the language of the source being cited. This approach preserves the original linguistic context within a multilingual reference list, which can later be transliterated or standardized for indexing purposes.
 
 ## Author Name
 
