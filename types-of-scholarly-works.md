@@ -1,6 +1,6 @@
 # Types of Scholarly Works
 
-This section provides a clear classification and explanation of common types of scholarly works cited in archaeological research. Understanding these categories — from broad collections like series and multivolume works to specific items such as journal articles, book chapters, datasets, and digital resources — helps authors accurately identify and reference sources according to best bibliographic practices.
+on provides a clear classification and explanation of common types of scholarly works cited in archaeological research. Understanding these categories — from broad collections like series and multivolume works to specific items such as journal articles, book chapters, datasets, and digital resources — helps authors accurately identify and reference sources according to best bibliographic practices.
 
 ### Texts
 
@@ -26,13 +26,13 @@ Each volume may have its own subtitle or focus, but the set is designed to funct
 
 A multivolume work may sometimes be published as part of a larger series.
 
-</details>
-
 {% hint style="warning" %}
-## Series vs Multivolume Works
+#### Multivolume Works vs Series
 
-While the distinction is conceptually clear, in practice it can be blurred — especially when series volumes appear uniform or when multivolume works, with each volume individually titled, are published over decades. When in doubt, consult reliable bibliographic sources or follow how the publisher formally presents the relationship between volumes.
+While the distinction between series and multi-volume works is generally clear in theory, it can be challenging to apply in practice. This is especially true when series volumes appear uniform or when multi-volume works, with each volume individually titled, are published over the course of decades. When there is uncertainty, it is advisable to refer to reliable bibliographic sources or to follow the formal presentation of the relationship between volumes by the publisher.
 {% endhint %}
+
+</details>
 
 <details>
 
@@ -106,23 +106,39 @@ Although theses and dissertations are technically unpublished manuscripts, their
 
 </details>
 
+<details>
+
+<summary>Websites</summary>
 
 
 
+</details>
 
 <details>
 
-<summary>Special Cases</summary>
-
-#### Maps
+<summary>Blog Posts</summary>
 
 
 
-#### Datasets
+</details>
 
-#### Websites
+### Visual Media
 
-#### Blog Posts
+<details>
+
+<summary>Maps</summary>
+
+
+
+</details>
+
+### Data
+
+<details>
+
+<summary>Datasets</summary>
+
+
 
 </details>
 
