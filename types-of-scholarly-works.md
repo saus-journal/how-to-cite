@@ -150,7 +150,11 @@ From a bibliographic perspective, maps constitute a highly diverse category and 
 
 <summary><strong>Datasets</strong></summary>
 
+A dataset is a collection of data — such as tabular, vector, raster, textual, or 3D data. Datasets are typically published in institutional, domain-specific, or general-purpose repositories, but they may also remain unpublished and be obtained directly from a researcher or organization.
 
+From a bibliographic perspective, datasets are structurally similar to books, as they are usually released as standalone works.
+
+However, they are increasingly referenced through _data papers_ — short journal articles that describe and reference datasets hosted elsewhere — rather than being cited directly.
 
 </details>
 
