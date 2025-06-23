@@ -98,7 +98,7 @@ Connecting and descriptive terms and abbreviations, such as (ed.) for “edited 
 
 <details>
 
-<summary>Missing <strong>Author</strong></summary>
+<summary><strong>Missing Author</strong></summary>
 
 
 
@@ -106,7 +106,7 @@ Connecting and descriptive terms and abbreviations, such as (ed.) for “edited 
 
 <details>
 
-<summary>Missing <strong>Date</strong></summary>
+<summary><strong>Missing Date</strong></summary>
 
 
 
@@ -114,7 +114,7 @@ Connecting and descriptive terms and abbreviations, such as (ed.) for “edited 
 
 <details>
 
-<summary>Missing <strong>Publisher Information</strong></summary>
+<summary><strong>Missing Publisher Information</strong></summary>
 
 
 
@@ -122,7 +122,7 @@ Connecting and descriptive terms and abbreviations, such as (ed.) for “edited 
 
 <details>
 
-<summary>Missing <strong>Pagination</strong></summary>
+<summary><strong>Missing Pagination</strong></summary>
 
 
 
