@@ -26,6 +26,8 @@ If a work has **two or more creators**, all names should be listed — up to a m
 
 If **more than 20 creators** are listed, the first 19 and the final name should be included, with an ellipsis (...) inserted between the 19th and the last name to indicate the omission of intervening names.
 
+In instances where the creators' names are not known, **the abbreviation "Anon."** is used instead.
+
 ## In-Text Citations
 
 In in-text citations, usually **only the surname** is used.
@@ -37,4 +39,6 @@ If the reference list contains works by different primary creators sharing the s
 If a work has **two creators**, both names are listed, separated by a comma.
 
 For works with **three or more creators**, only the first author's name is shown, followed by the abbreviation "et al."
+
+As in the reference list, **the abbreviation "Anon."** is used instead of the creators' names when they are unknown.
 

@@ -11,6 +11,7 @@
 
 * [Introduction](saus-citation-style/introduction.md)
 * [Creators](saus-citation-style/creators.md)
+* [Date](saus-citation-style/date.md)
 * [Title](saus-citation-style/title.md)
 * [Type](saus-citation-style/type.md)
 * [Building Blocks](saus-citation-style/building-blocks.md)
