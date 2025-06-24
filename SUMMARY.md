@@ -1,13 +1,25 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Types of Scholarly Works](types-of-scholarly-works.md)
-* [Components of Reference Entry](components-of-reference-entry.md)
-* [SAUS Citation Style Principles](saus-citation-style-principles/README.md)
-  * [Key Elements of a Citation and Reference](saus-citation-style-principles/key-elements-of-a-citation-and-reference.md)
-* [SAUS Citation Style Examples](saus-citation-style-examples/README.md)
-  * [In-line Citation Examples](saus-citation-style-examples/in-line-citation-examples.md)
-  * [Reference List Examples](saus-citation-style-examples/reference-list-examples/README.md)
-    * [Book](saus-citation-style-examples/reference-list-examples/book.md)
-* [Reference Managers and CLS](reference-managers-and-cls.md)
-* [Referencing using Zotero](referencing-using-zotero.md)
+
+## Citation Essentials
+
+* [Types of Scholarly Works](citation-essentials/types-of-scholarly-works.md)
+* [Components of Reference Entry](citation-essentials/components-of-reference-entry.md)
+
+## SAUS Citation Style
+
+* [Introduction](saus-citation-style/introduction.md)
+* [Building Blocks](saus-citation-style/building-blocks.md)
+* [Substitutes](saus-citation-style/substitutes.md)
+* [Linking Elements](saus-citation-style/linking-elements.md)
+
+## Citation Examples
+
+* [Examples of In-Text Citations](citation-examples/examples-of-in-text-citations.md)
+* [Sample Reference List](citation-examples/sample-reference-list.md)
+
+## Reference Management
+
+* [Reference Managers and CSL](reference-management/reference-managers-and-csl.md)
+* [Zotero](reference-management/zotero.md)
