@@ -29,10 +29,7 @@ These contribute significantly to the form or transmission of the work, but are 
 
 #### Contributors
 
-These are individuals associated with a part of the work, or who add value to it in a supporting role. They are usually credited when citing a specific component. Examples include:
-
-* **Authors of specific book sections** (in both monographs and edited volumes)
-* **Illustrators** and **engravers** (e.g., for maps)
+These are individuals associated with a part of the work, or who add value to it in a supporting role.
 
 </details>
 

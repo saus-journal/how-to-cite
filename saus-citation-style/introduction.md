@@ -37,7 +37,7 @@ Mango, C., Scott, R. (trans.). 1997. _The Chronicle of Theophanes Confessor: Byz
 
 **In-Text Citations:**
 
-(Maur. _Strat_., 349, X.4)
+(Maur. _Strat_. 349, X.4)
 
 (Theoph. _Chron_. a.m. 5948)
 
