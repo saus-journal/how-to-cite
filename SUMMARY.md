@@ -10,6 +10,7 @@
 ## SAUS Citation Style
 
 * [Introduction](saus-citation-style/introduction.md)
+* [Title](saus-citation-style/title.md)
 * [Building Blocks](saus-citation-style/building-blocks.md)
 * [Substitutes](saus-citation-style/substitutes.md)
 * [Linking Elements](saus-citation-style/linking-elements.md)
