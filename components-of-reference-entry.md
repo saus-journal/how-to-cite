@@ -58,7 +58,7 @@ The name of the work. This includes:
 
 <details>
 
-<summary>Type</summary>
+<summary><strong>Type</strong></summary>
 
 This component indicates the type of work being cited, such as a map, thesis, or dataset. It helps clarify the nature of the resource and distinguishes it from more conventional publications like books or journal articles.
 
@@ -192,6 +192,8 @@ The names of secondary creators and contributors are accompanied by standardized
 
 When the publication date is uncertain but can be reasonably estimated, it is typically accompanied by a localized term indicating approximation. In English and other Western European languages, the Latin word circa is commonly used, usually in its abbreviated form (ca.).
 
+If the work has not yet been published but is expected to be released soon, it is accompanied by a localized term indicating its pending status, such as _in press_ or _forthcoming_.
+
 </details>
 
 <details>
@@ -206,7 +208,7 @@ The value of the “Scale” building block — for example, 1:50,000 — should
 
 <summary><strong>In Term</strong></summary>
 
-The localized “In” term is typically placed before the title of the larger work that contains the referenced item—such as a journal, an edited volume, or a collective monograph. In the case of edited volumes and collective monographs, the names of the creators of the larger work appear between the “In” term and the title.
+The localized “In” term (e.g., In:) is typically placed before the title of the larger work that contains the referenced item—such as a journal, an edited volume, or a collective monograph. In the case of edited volumes and collective monographs, the names of the creators of the larger work appear between the “In” term and the title.
 
 </details>
 
