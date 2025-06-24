@@ -86,3 +86,53 @@ In rare cases where a cited work lacks a formal title (e.g., unpublished reports
 
 \[Çatalhöyük excavations, scientific report on the results of the 2023 campaign]
 {% endhint %}
+
+## Italicization
+
+Titles should be **italicized** in the reference list only when the cited work is a **standalone publication** — such as a book, map, report, or film.\
+When referencing a work that is **part of a larger whole** — such as a journal article or book chapter — the title of **the part should not be italicized**, while the title of **the containing work** (e.g., the journal or edited volume) **must be italicized**.
+
+{% hint style="success" %}
+## Correct:
+
+Pohl, W. 2002. _Die Völkerwanderung: Eroberung und Integration_. Stuttgart: Kohlhammer. ISBN: 3-17-015566-0.
+{% endhint %}
+
+{% hint style="success" %}
+## Correct:
+
+Binsfeld, W. 1967. Zu den frühchristlichen Grabinschriften Kölns. _Germania_ 45, 105–109. [https://doi.org/10.11588/ger.1967.98140](https://doi.org/10.11588/ger.1967.98140).
+{% endhint %}
+
+## Capitalization
+
+Titles should be cited exactly **as they appear in the original publication**. The SAUS style does not enforce a standard English capitalization rule, such as title case or sentence case, on original titles.
+
+However, if the original **English** title is written in **all capital letters**, it should be cited using **title case**.
+
+{% hint style="success" %}
+## Example:
+
+**Original:**
+
+THE ATHENIAN AGORA\
+RESULTS OF EXCAVATIONS\
+CONDUCTED BY\
+THE AMERICAN SCHOOL OF CLASSICAL STUDIES IN ATHENS\
+VOLUME IX\
+THE ISLAMIC COINS
+
+**SAUS Reference Entry:**
+
+The Athenian Agora: Results of Excavations Conducted by the American School of Classical Studies at Athens, Vol. 9: The Islamic Coins
+{% endhint %}
+
+{% hint style="success" %}
+## Example
+
+<img src="../.gitbook/assets/1991_Adams&#x26;Adams_Cover.jpg" alt="" data-size="original">
+
+**Saus Reference Entry:**
+
+Archaeological typology and practical reality: A dialectical approach to artifact classification and sorting
+{% endhint %}
