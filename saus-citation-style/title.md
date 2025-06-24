@@ -1,6 +1,8 @@
 # Title
 
+## Main Title
 
+The main title of a work is its primary identifying name, taken directly from the source. When no title is present, it is recommended to supply a brief descriptive title in square brackets.
 
 ## Subtitle
 
@@ -14,11 +16,11 @@ Subtitles are an integral part of a work's title and should always be included i
 
 **Original:**
 
-Sarmatians — History and Archaeology of a Forgotten People
+Sarmatians — History and Archaeology of a Forgotten People.
 
 **SAUS Reference Entry:**
 
-Sarmatians — History and Archaeology of a Forgotten People
+Sarmatians — History and Archaeology of a Forgotten People.
 {% endhint %}
 
 {% hint style="success" %}
@@ -31,7 +33,7 @@ Ein Fundplatz der Sântana Mureş-Černjachov-Kultur an der Unteren Donau
 
 **SAUS Reference Entry:**
 
-Gräberfeld und Siedlung Nagornoe 2: Ein Fundplatz der Sântana Mureş-Černjachov-Kultur an der Unteren Donau
+Gräberfeld und Siedlung Nagornoe 2: Ein Fundplatz der Sântana Mureş-Černjachov-Kultur an der Unteren Donau.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -39,11 +41,11 @@ Gräberfeld und Siedlung Nagornoe 2: Ein Fundplatz der Sântana Mureş-Černjach
 
 **Original:**
 
-Sarmatians — History and Archaeology of a Forgotten People
+Sarmatians — History and Archaeology of a Forgotten People.
 
 **SAUS Reference Entry:**
 
-Sarmatians: History and Archaeology of a Forgotten People
+Sarmatians: History and Archaeology of a Forgotten People.
 {% endhint %}
 
 ## Titles of Multivolume Works
@@ -53,7 +55,7 @@ In multivolume works, **the volume number** — always expressed using **Arabic 
 {% hint style="success" %}
 ## Example:
 
-The Economic History of Byzantium from the Seventh through the Fifteenth Century, Vol. 1
+The Economic History of Byzantium from the Seventh through the Fifteenth Century, Vol. 1.
 {% endhint %}
 
 If the individual volumes in a multivolume work have their own titles, the structure should be as follows:
@@ -64,9 +66,9 @@ If the individual volumes in a multivolume work have their own titles, the struc
 {% hint style="success" %}
 ## Examples:
 
-Excavations at Tall Jawa, Jordan, Vol. 4: The Early Islamic House
+Excavations at Tall Jawa, Jordan, Vol. 4: The Early Islamic House.
 
-Excavations At Saraçhane In Istanbul, Vol. 2: The Pottery
+Excavations At Saraçhane In Istanbul, Vol. 2: The Pottery.
 {% endhint %}
 
 ## Titles of Multilingual Publications
@@ -124,7 +126,7 @@ THE ISLAMIC COINS
 
 **SAUS Reference Entry:**
 
-The Athenian Agora: Results of Excavations Conducted by the American School of Classical Studies at Athens, Vol. 9: The Islamic Coins
+The Athenian Agora: Results of Excavations Conducted by the American School of Classical Studies at Athens, Vol. 9: The Islamic Coins.
 {% endhint %}
 
 {% hint style="success" %}
@@ -134,5 +136,45 @@ The Athenian Agora: Results of Excavations Conducted by the American School of C
 
 **Saus Reference Entry:**
 
-Archaeological typology and practical reality: A dialectical approach to artifact classification and sorting
+Archaeological typology and practical reality: A dialectical approach to artifact classification and sorting.
+{% endhint %}
+
+## Translation and Transliteration
+
+Titles in languages other than English should **not be translated**. They should be **transliterated** according to the journal’s transliteration policy.
+
+{% hint style="success" %}
+## Recommended:
+
+Original:
+
+Делирадев, П. 1953. _Принос към историческата география на Тракия, Том 2_. София: Българска академия на науките.
+
+**Saus Reference Entry:**
+
+Deliradev, P. 1953. _Prinos kam istoricheskata geografia na Trakia, Vol. 2_. Sofia: Balgarska akademia na naukite.
+{% endhint %}
+
+{% hint style="danger" %}
+## Not Recommended:
+
+Original:
+
+Делирадев, П. 1953. _Принос към историческата география на Тракия, Том 2_. София: Българска академия на науките.
+
+**Saus Reference Entry:**
+
+Deliradev, P. 1953. _Contribution to the historical geography of Thrace, Vol 2_. Sofia: Balgarska akademia na naukite \[in Bulgarian].
+{% endhint %}
+
+{% hint style="danger" %}
+## Not Recommended:
+
+Original:
+
+Делирадев, П. 1953. _Принос към историческата география на Тракия, Том 2_. София: Българска академия на науките.
+
+**Saus Reference Entry:**
+
+Deliradev, P. 1953. _Prinos kam istoricheskata geografia na Trakia_ \[Contribution to the historical geography of Thrace], _Vol 2_. Sofia: Balgarska akademia na naukite. \[in Bulgarian].
 {% endhint %}
