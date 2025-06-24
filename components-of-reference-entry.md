@@ -181,7 +181,8 @@ When locators — such as page numbers, paragraph numbers, or other reference ma
 
 <summary><strong>Creators Terms</strong></summary>
 
-
+If a name is not accompanied by a descriptive term, it is assumed to belong to the primary creator of the work, typically the author.\
+The names of secondary creators and contributors are accompanied by standardized, localized descriptive terms. Depending on the citation style, these may appear as full nouns (e.g., editor, translator, contributor), abbreviations (e.g., ed., transl., contrib.), or prepositional phrases (e.g., edited by, translated by).
 
 </details>
 
@@ -189,7 +190,7 @@ When locators — such as page numbers, paragraph numbers, or other reference ma
 
 <summary><strong>Date Status Terms</strong></summary>
 
-
+When the publication date is uncertain but can be reasonably estimated, it is typically accompanied by a localized term indicating approximation. In English and other Western European languages, the Latin word circa is commonly used, usually in its abbreviated form (ca.).
 
 </details>
 
@@ -197,7 +198,7 @@ When locators — such as page numbers, paragraph numbers, or other reference ma
 
 <summary><strong>Scale Term</strong></summary>
 
-
+The value of the “Scale” building block — for example, 1:50,000 — should be accompanied by a localized term such as “Scale”.
 
 </details>
 
@@ -205,7 +206,7 @@ When locators — such as page numbers, paragraph numbers, or other reference ma
 
 <summary><strong>In Term</strong></summary>
 
-
+The localized “In” term is typically placed before the title of the larger work that contains the referenced item—such as a journal, an edited volume, or a collective monograph. In the case of edited volumes and collective monographs, the names of the creators of the larger work appear between the “In” term and the title.
 
 </details>
 
@@ -213,7 +214,7 @@ When locators — such as page numbers, paragraph numbers, or other reference ma
 
 <summary><strong>Locators Terms</strong></summary>
 
-
+The values of the "Locators" building block are accompanied by localized, typically abbreviated terms indicating the type of locator associated with each value (e.g., p. for "page," fig. for "figure," etc.). If no locator term is provided, the value is usually assumed to refer to page numbers.
 
 </details>
 
@@ -221,6 +222,8 @@ When locators — such as page numbers, paragraph numbers, or other reference ma
 
 <summary><strong>Identifiers Terms</strong></summary>
 
-
+Digital Object Identifier (DOI) values are typically not preceded by specific terms, as they are designed to be permanent and self-explanatory. Moreover, the standard DOI format includes the "[https://doi.org/](https://www.doi.org/)" prefix.\
+Values of International Standard Book Numbers (ISBN) and International Standard Serial Numbers (ISSN) must be accompanied by their respective standard, non-localized abbreviations: ISBN and ISSN.\
+URLs are introduced by standardized, localized prepositional phrases such as _Available at:_. Additionally, the access date should be indicated using terms like _Accessed_ or _Retrieved_.
 
 </details>
