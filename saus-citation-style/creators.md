@@ -2,9 +2,9 @@
 
 Where known, the **names of a work’s primary creators** should be included in both **in-text citations** and the **reference list**.
 
-The names of the work's **secondary creators** appear **only in the reference list**.
+The **names of a work’s secondary creators** — such as editors, translators, commentators, or illustrators — appear **only in the reference list, not in in-text citations**. The same applies to the creators of the parent work in which a cited item appears (e.g., an edited volume, collective monograph, or encyclopedia).
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 ## Note:
 
 While **authors** are generally recognized as the **primary creators** of a work, there are notable exceptions worth considering.
@@ -18,11 +18,23 @@ In certain fields, such as **cartography**, other contributors — such as **ill
 
 ## Reference List
 
+The names of a work’s primary and secondary creators should appear in the reference entry in the following format: “**Surname, Initials**.”
+
+If the reference list contains works by different primary creators sharing the same surname and first name, published in the same year, **the middle initial** should also be added after the first initial.
+
+If a work has **two or more creators**, all names should be listed — up to a maximum of 20 — and separated by commas, **without the use of et al.**
+
+If **more than 20 creators** are listed, the first 19 and the final name should be included, with an ellipsis (...) inserted between the 19th and the last name to indicate the omission of intervening names.
+
 ## In-Text Citations
 
-The names of a work’s authors should appear in the reference entry in the following format: “**Surname, Initials**.”
+In in-text citations, usually **only the surname** is used.
 
-In in-text citations, only the surname is used — unless the reference list includes works by two or more authors with the same surname published in the same year, in which case the initials are included as well.
+However, when the reference list includes works by two or more primary creators with the same surname published in the same year, **the initials** are included as well.
 
-If the bibliography contains works by different authors sharing the same surname and first name, published in the same year, the middle initial should also be added after the first initial. This applies to both reference entries and in-text citations.
+If the reference list contains works by different primary creators sharing the same surname and first name, published in the same year, **the middle initial** should be added after the first initial in the in-text citation as well.
+
+If a work has **two creators**, both names are listed, separated by a comma.
+
+For works with **three or more creators**, only the first author's name is shown, followed by the abbreviation "et al."
 
