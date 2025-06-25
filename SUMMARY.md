@@ -14,6 +14,7 @@
 * [Date](saus-citation-style/date.md)
 * [Title](saus-citation-style/title.md)
 * [Type](saus-citation-style/type.md)
+* [Scale](saus-citation-style/scale.md)
 * [Building Blocks](saus-citation-style/building-blocks.md)
 * [Substitutes](saus-citation-style/substitutes.md)
 * [Linking Elements](saus-citation-style/linking-elements.md)

@@ -124,6 +124,16 @@ Binsfeld, W. 1967. Zu den frühchristlichen Grabinschriften Kölns. _Germania_ 4
 
 Titles should be cited exactly **as they appear in the original publication**. The SAUS style does not enforce a standard English capitalization rule, such as title case or sentence case, on original titles.
 
+{% hint style="success" %}
+## Example
+
+<p align="center"><img src="../.gitbook/assets/1991_Adams&#x26;Adams_Cover.jpg" alt="" data-size="original"></p>
+
+**Saus Reference Entry:**
+
+Archaeological typology and practical reality: A dialectical approach to artifact classification and sorting.
+{% endhint %}
+
 However, if the original **English** title is written in **all capital letters**, it should be cited using **title case**.
 
 {% hint style="success" %}
@@ -143,16 +153,6 @@ THE ISLAMIC COINS
 The Athenian Agora: Results of Excavations Conducted by the American School of Classical Studies at Athens, Vol. 9: The Islamic Coins.
 {% endhint %}
 
-{% hint style="success" %}
-## Example
-
-<img src="../.gitbook/assets/1991_Adams&#x26;Adams_Cover.jpg" alt="" data-size="original">
-
-**Saus Reference Entry:**
-
-Archaeological typology and practical reality: A dialectical approach to artifact classification and sorting.
-{% endhint %}
-
 ## Translation and Transliteration
 
 Titles in languages other than English should **not be translated**. They should be **transliterated** according to the journal’s transliteration policy.
@@ -160,19 +160,19 @@ Titles in languages other than English should **not be translated**. They should
 {% hint style="success" %}
 ## Recommended:
 
-Original:
+**Original:**
 
 Делирадев, П. 1953. _Принос към историческата география на Тракия, Том 2_. София: Българска академия на науките.
 
 **Saus Reference Entry:**
 
-Deliradev, P. 1953. _Prinos kam istoricheskata geografia na Trakia, Vol. 2_. Sofia: Balgarska akademia na naukite.
+Deliradev, P. 1953. _Prinos kam istoricheskata geografia na Trakia, Tom 2_. Sofia: Balgarska akademia na naukite.
 {% endhint %}
 
 {% hint style="danger" %}
 ## Not Recommended:
 
-Original:
+**Original:**
 
 Делирадев, П. 1953. _Принос към историческата география на Тракия, Том 2_. София: Българска академия на науките.
 
@@ -184,7 +184,7 @@ Deliradev, P. 1953. _Contribution to the historical geography of Thrace, Vol 2_.
 {% hint style="danger" %}
 ## Not Recommended:
 
-Original:
+**Original:**
 
 Делирадев, П. 1953. _Принос към историческата география на Тракия, Том 2_. София: Българска академия на науките.
 
