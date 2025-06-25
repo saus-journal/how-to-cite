@@ -2,7 +2,21 @@
 
 ## Main Title
 
-The main title of a work is its primary identifying name, taken directly from the source. When no title is present, it is recommended to supply a brief descriptive title in square brackets.
+The main title of a work is its primary identifying name, taken directly from the source.
+
+{% hint style="warning" %}
+## Identifying Titles of Online Resources
+
+Sometimes the official title of an online resource isn’t immediately visible. Two straightforward methods can assist in identifying it:
+
+1. **Search Engine Preview**\
+   Enter only the website’s domain (e.g., example.org) — not the full web address (URL) — into a search engine’s search field, not the browser’s address bar. The title often appears in the preview text of the search results.
+2. **Inspecting Metadata with Developer Tools**\
+   Open the page in your browser, then press Ctrl+Shift+I (Windows/Linux) or Cmd+Shift+I (Mac) to open developer tools:
+   * Select the Elements tab (usually the first tab).
+   * Near the top of the code, find the tag. Click the arrow or triangle icon next to it to expand it.
+   * Then expand the `<head>` section, and look for the `<title>` tag—this typically shows the website’s official title.
+{% endhint %}
 
 ## Subtitle
 
